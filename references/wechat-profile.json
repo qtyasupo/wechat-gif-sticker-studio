@@ -1,0 +1,86 @@
+{
+  "description": "Working-case profile from user screenshots and requested dimensions; verify against the current submission page.",
+  "field_limits": {
+    "name": [
+      1,
+      8
+    ],
+    "intro": [
+      1,
+      80
+    ],
+    "copyright": [
+      1,
+      10
+    ],
+    "support_prompt": [
+      5,
+      15
+    ]
+  },
+  "sticker_size": [
+    240,
+    240
+  ],
+  "thumbnail_size": [
+    120,
+    120
+  ],
+  "assets": {
+    "banner": {
+      "size": [
+        750,
+        400
+      ],
+      "formats": [
+        "PNG",
+        "JPEG"
+      ],
+      "transparent": false
+    },
+    "cover": {
+      "size": [
+        240,
+        240
+      ],
+      "formats": [
+        "PNG"
+      ],
+      "transparent": true
+    },
+    "icon": {
+      "size": [
+        50,
+        50
+      ],
+      "formats": [
+        "PNG"
+      ],
+      "transparent": true
+    },
+    "support": {
+      "size": [
+        750,
+        560
+      ],
+      "formats": [
+        "PNG",
+        "JPEG",
+        "GIF"
+      ],
+      "transparent": false
+    },
+    "thanks": {
+      "size": [
+        750,
+        750
+      ],
+      "formats": [
+        "PNG",
+        "JPEG",
+        "GIF"
+      ],
+      "transparent": false
+    }
+  }
+}

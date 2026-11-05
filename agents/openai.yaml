@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信 GIF 表情包工作室"
+  short_description: "从角色设定、网页端GIF提示词到微信上架素材与归档的一体化工作流"
+  default_prompt: "使用 $wechat-gif-sticker-studio，为我制作一套角色统一的中文动态表情包，并准备微信上架素材与填写文案。"
