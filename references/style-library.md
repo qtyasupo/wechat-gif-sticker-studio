@@ -6,11 +6,13 @@
 | --- | --- | --- |
 | 照片质感宠物拟人 | [洛小咪](../examples/luoxiaomi2/README.md)、[柯基](style-library/examples/pet-corgi) | 真实脸和毛发，服装、道具和聊天动作；洛小咪为本流程高清实例 |
 | 像素聊天角色 | [像素小秘书](style-library/examples/01-replies)、[鲸鱼娘](style-library/examples/whale-maid) | 像素轮廓、短台词、用途分类；宠物可据此提出像素改编 |
+| 像素主题宠物 | [洛小咪遨游太空](../examples/luoxiaomi-space/README.md) | 已完成8张像素GIF与五张发布配图，学习同一身份的主题换装与背景统一 |
+| Q版三维静态候选 | [太空洛小咪试样](../examples/luoxiaomi-space/style-previews/space-3d-candidate.png) | 仅静态风格参考，未确认采用，未制作对应GIF；不与像素成品混用 |
 | 高清插画／Q版 | [混合动作示例](style-library/examples/mixed-actions) | 借鉴插画材质和表情；宠物Q版属于拟议改编，不冒充已有猫咪实例 |
 | 照片人物风格 | [人物高清](style-library/examples/public-figures-hd) | 仅人物题材时查阅，保留来源和署名 |
 | 动作稳定性比较 | [修补候选](style-library/examples/anime-stability) | 上游仍标记待确认，用于比较问题，不推荐为已验收模板 |
 
-完整参考库含223个GIF文件（包括集合预览、修补候选）。上游展厅统计218张既有独立表情和2张修补候选，集合预览不算新增独立作品。见 [本地展厅快照](style-library/README.md)。另有本仓库小橘、洛小咪各8张。
+完整参考库含223个GIF文件（包括集合预览、修补候选）。上游展厅统计218张既有独立表情和2张修补候选，集合预览不算新增独立作品。见 [本地展厅快照](style-library/README.md)。另有本仓库小橘、黄卫衣洛小咪、太空像素洛小咪各8张独立表情；原始GIF与其上传副本不重复计数。
 
 ## 看图后的询问示例
 

@@ -1,0 +1,16 @@
+{
+  "album": "洛小咪遨游太空",
+  "status": "materials_ready",
+  "status_label": "成品、上架文案与五张配图已交付；未确认上传",
+  "reported_on": "2026-11-06",
+  "evidence_type": "local_deliverables",
+  "evidence": "用户提供8张像素风GIF，助手完成上架信息与五张配图。本期尚未收到用户上传、审核或上线反馈。",
+  "style": "pixel",
+  "style_accepted": true,
+  "gif_count": 8,
+  "asset_count": 5,
+  "approved_on": null,
+  "published_on": null,
+  "public_url": null,
+  "style_preview_3d": "candidate_only; not confirmed and not used for finished pixel GIFs or publishing assets"
+}

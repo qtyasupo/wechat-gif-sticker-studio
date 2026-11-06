@@ -1,0 +1,114 @@
+[
+  {
+    "file": "originals/01_收到.gif",
+    "source_filename": "太空猫敬礼动画.gif",
+    "sha256": "5909b9bc4ecef713063d03ede6cb7645a0442577e38ea6e368194d184bd49ef4",
+    "size": [
+      411,
+      414
+    ],
+    "frames": 9,
+    "duration_ms": 1980,
+    "loop": 0,
+    "adapted_file": "stickers/01_收到.gif",
+    "adaptation": "Nearest-neighbor, aspect-preserving resize, navy square padding; original untouched"
+  },
+  {
+    "file": "originals/02_出发啦.gif",
+    "source_filename": "洛小咪太空升空动画.gif",
+    "sha256": "dd695f1448d76e13dcc5df563aa9ff561777a7d4fee1e0d52983ca44a78a752b",
+    "size": [
+      412,
+      412
+    ],
+    "frames": 9,
+    "duration_ms": 1980,
+    "loop": 0,
+    "adapted_file": "stickers/02_出发啦.gif",
+    "adaptation": "Nearest-neighbor, aspect-preserving resize, navy square padding; original untouched"
+  },
+  {
+    "file": "originals/03_找到啦.gif",
+    "source_filename": "太空猫咪发现闪耀星星.gif",
+    "sha256": "9df1ee12549bc0ad34e8e3d4c6db914d60fdb996418741aad2c8749429af18eb",
+    "size": [
+      412,
+      410
+    ],
+    "frames": 9,
+    "duration_ms": 1980,
+    "loop": 0,
+    "adapted_file": "stickers/03_找到啦.gif",
+    "adaptation": "Nearest-neighbor, aspect-preserving resize, navy square padding; original untouched"
+  },
+  {
+    "file": "originals/04_摸鱼中.gif",
+    "source_filename": "太空猫咪摸鱼中九帧动画.gif",
+    "sha256": "7ad560b277948113eb7a5a91dea1a3543d0af1910dba267cecaecc915346df2d",
+    "size": [
+      412,
+      412
+    ],
+    "frames": 9,
+    "duration_ms": 1980,
+    "loop": 0,
+    "adapted_file": "stickers/04_摸鱼中.gif",
+    "adaptation": "Nearest-neighbor, aspect-preserving resize, navy square padding; original untouched"
+  },
+  {
+    "file": "originals/05_抱抱.gif",
+    "source_filename": "太空猫咪抱抱动画.gif",
+    "sha256": "acbc4dd80c3752bb35754fe2be36aae91229f5c8085fbc3ab9bc86e84f2446e8",
+    "size": [
+      425,
+      397
+    ],
+    "frames": 9,
+    "duration_ms": 1980,
+    "loop": 0,
+    "adapted_file": "stickers/05_抱抱.gif",
+    "adaptation": "Nearest-neighbor, aspect-preserving resize, navy square padding; original untouched"
+  },
+  {
+    "file": "originals/06_补充能量.gif",
+    "source_filename": "太空猫咪补充能量动画.gif",
+    "sha256": "09721973699e7ee8f92d33231cc52df9426ea5f22832b0e7f5dc02566a6d2a67",
+    "size": [
+      412,
+      414
+    ],
+    "frames": 9,
+    "duration_ms": 1980,
+    "loop": 0,
+    "adapted_file": "stickers/06_补充能量.gif",
+    "adaptation": "Nearest-neighbor, aspect-preserving resize, navy square padding; original untouched"
+  },
+  {
+    "file": "originals/07_信号不好.gif",
+    "source_filename": "洛小咪_星际通讯暂时卡住_信号不好_512x512.gif",
+    "sha256": "2eaa6f1951d06c3165e16f8142a6da0f163c4177d27007026914d428e22c5934",
+    "size": [
+      512,
+      512
+    ],
+    "frames": 9,
+    "duration_ms": 1980,
+    "loop": 0,
+    "adapted_file": "stickers/07_信号不好.gif",
+    "adaptation": "Nearest-neighbor, aspect-preserving resize, navy square padding; original untouched"
+  },
+  {
+    "file": "originals/08_晚安地球.gif",
+    "source_filename": "猫咪宇航员的晚安呼吸循环.gif",
+    "sha256": "df89d2f4db680871ae33935c6338814cd8a3cc5ec624294f8cd27d0b13290e0a",
+    "size": [
+      423,
+      397
+    ],
+    "frames": 9,
+    "duration_ms": 1980,
+    "loop": 0,
+    "adapted_file": "stickers/08_晚安地球.gif",
+    "adaptation": "Nearest-neighbor, aspect-preserving resize, navy square padding; original untouched"
+  }
+]

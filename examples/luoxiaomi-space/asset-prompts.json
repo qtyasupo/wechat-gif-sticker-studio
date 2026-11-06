@@ -1,0 +1,35 @@
+{
+  "base": "Use these frames from the USER'S FINISHED PIXEL GIFs as the exact character and art-style reference for a coherent WeChat sticker album graphics set. Reference 1 is the neutral astronaut construction/face; reference 2 is happy hug expression and same character; reference 3 is sleepy star-pillow variation. The ONE character is 洛小咪: round silver-gray classic-tabby feline face, bright pale-green eyes, black M forehead marking and cheek stripes, pale muzzle, triangular ears, big head and short round body, full clear bubble helmet with thin pale rim, white/light-gray astronaut suit with orange bands and teal fittings, small life support backpack, round feline glove paws and compact boots. Keep the SAME pixel sprite design and fur pattern; deliberate hard square pixel clusters, stepped outlines, flat discrete shade levels, controlled retro 16-bit game palette. Reference GIFs establish the pixel-density and rendering, do not convert to smooth 3D, painted illustration, photo, gradient airbrush or low-poly. Source frames include Chinese captions; REMOVE ALL source captions and render ONLY text explicitly requested for each new graphic. Maintain navy/cream/gray/orange/teal/green color palette, with warm-gold stars. No watermark, logo, QR code, fake payment UI, extra characters or unrelated objects. ",
+  "reference_roles": [
+    "成品宇航服与猫脸",
+    "成品抱抱表情",
+    "成品晚安星星抱枕"
+  ],
+  "assets": [
+    {
+      "key": "banner",
+      "transparent_background": false,
+      "spec": "ONE horizontal album banner, aspect ratio exactly 750:400, landscape. Opaque deep midnight-navy outer-space background, sparse crisp cream pixel stars, one small blue planet in far lower-left and one small gold ringed planet upper-right, lots of readable negative space. Arrange THREE depictions of the SAME cat in a coherent floating group with no panels: left cat hugging a small golden star with happy green eyes; center cat slightly larger, gently floating and lifting a glove paw in greeting; right cat sleepy with closed eyes hugging a golden star pillow. Same astronaut suit and recognizable same cat in all three. Complete helmets, paws, backpacks and boots visible with safe margins on all edges, no cropping. A few short faint teal pixel orbital trail segments can connect the group but keep composition uncluttered. Entirely hard-edged pixel art. NO text, title, letters, numbers, speech bubbles or captions."
+    },
+    {
+      "key": "cover",
+      "transparent_background": true,
+      "spec": "ONE square 1:1 isolated transparent album cover. Exactly ONE complete floating astronaut cat, slightly tilted, one paw lifted in greeting, other paw near chest, both legs bent naturally. Big readable green eyes and round face, intact clear bubble helmet and both ears, full backpack and boots. Compact strong silhouette centered within 80% canvas, at least 10% empty safe margins. Helmet should have a thin pale pixel rim and dark navy tinted interior to retain the original sprite design; NO stars/planets/background outside the silhouette. Real alpha-zero outside the complete character. No floor, cast shadow, checkerboard, border, frame, badge, words, title, captions, letters or numbers. Designed to remain readable at final 240x240."
+    },
+    {
+      "key": "icon",
+      "transparent_background": true,
+      "spec": "ONE square transparent chat-tab icon master, intended final 50x50. Only a very large frontal HEAD of the exact same silver-tabby cat inside its clear round astronaut helmet, plus a tiny white/orange/teal neck ring at bottom. Both ears and full helmet circle fit within canvas with clear margins. Facial area takes most of circle, green eyes nose and M marking clean and bold at thumbnail size. Reduce tiny fur noise while keeping pixel art and identity; no torso, limbs, backpack, props or stars. Dark navy tinted inside helmet for legibility, real alpha-zero outside helmet/neck silhouette. No words, captions, letters, numbers, background square, badge or drop shadow. Crisp purposeful pixel squares."
+    },
+    {
+      "key": "support",
+      "transparent_background": false,
+      "spec": "ONE optional-support invitation image, aspect ratio 750:560. Deep navy starfield with few tiny cream pixel stars and a distant small blue planet, clean premium retro game-art layout. Upper 23% is a centered large legible warm-cream Chinese pixel-font title EXACTLY 「为洛小咪补充点能量」. These nine characters in that exact order; no other writing. Below title, one astronaut cat floats in center, facing viewer with friendly bright green eyes, both feline glove paws holding a small glowing golden star-shaped energy crystal near chest. A compact dark-teal battery icon near lower-right of cat shows three green filled blocks, no digits or words. Face and helmet unobscured, complete ears paws and boots with 8% safe margins. Pixel light accents around crystal, no painterly glow. Gentle voluntary appreciation, no currency, prices, buttons, QR codes, payment widgets or caption copied from references."
+    },
+    {
+      "key": "thanks",
+      "transparent_background": false,
+      "spec": "ONE square 1:1 supporter thank-you graphic, final use 750x750. Deep midnight-navy space background, sparse cream pixel stars, small distant gold ringed planet at top-right and blue planet lower-left. Top 15% large centered warm-cream Chinese pixel-style title EXACTLY 「谢谢你的星际补给」. Second smaller clear line immediately below EXACTLY 「洛小咪向你发来宇宙抱抱」. No other text anywhere. Under text, ONE same cat astronaut floats with both glove paws extended outward toward viewer in a warm hug, happy gently closed eyes, recognizable round silver-tabby face, intact transparent bubble helmet and original suit. Two small golden pixel hearts beside shoulders, tiny short decorative marks only. Full helmet, paws, backpack and boots all visible; space between typography and helmet; generous safe outer margins. No logos, QR codes, buttons or extra captions. Keep exact hard-pixel game-art finish of source GIFs."
+    }
+  ]
+}

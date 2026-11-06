@@ -40,6 +40,17 @@
 | --- | --- | --- | --- |
 | ![嗨起来](examples/luoxiaomi2/stickers/01_嗨起来.gif) | ![收到](examples/luoxiaomi2/stickers/02_收到.gif) | ![抱抱](examples/luoxiaomi2/stickers/06_抱抱.gif) | ![晚安](examples/luoxiaomi2/stickers/08_晚安.gif) |
 
+## 新增：像素洛小咪遨游太空
+
+本套已完成8张GIF、上架信息与五张配图，**尚未确认上传微信**。同主题Q版三维图仅为未确认的静态候选。
+
+![像素太空横幅](examples/luoxiaomi-space/assets/banner.png)
+
+- [完整案例、8张动图与交付说明](examples/luoxiaomi-space/README.md)
+- [512×512主题参考](examples/luoxiaomi-space/reference.png)、[8条完整GIF提示词](examples/luoxiaomi-space/prompts.md)
+- [上架信息](examples/luoxiaomi-space/publishing.json)、[五张配图预览](examples/luoxiaomi-space/assets-preview.jpg)、[上传材料清单](examples/luoxiaomi-space/album.json)
+- [换主题／换画风的接续规则](references/themed-series.md)
+
 ## 安装与调用
 
 ```text

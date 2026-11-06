@@ -1,0 +1,536 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [
+    "Visual review and current platform submission validation remain necessary."
+  ],
+  "sticker_count": 8,
+  "files": [
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 9,
+      "loop": 0,
+      "bytes": 173693,
+      "sha256": "6e5b444bd241d6989b52478627d384bfce0673a7356d9bbdf31deabb56d4143c",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220
+      ],
+      "distinct_frames": 9,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/01_收到.gif",
+      "role": "sticker 1"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 13905,
+      "sha256": "dad163688ea3d8ad03119c2a98f46ae6a98f8427e52abbd1da786bb9452fc121",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/01_收到.png",
+      "role": "thumbnail 1"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 9,
+      "loop": 0,
+      "bytes": 160153,
+      "sha256": "1b20df74df7a55ef5fddf4d8b4be326daf9a6f4769c1cbfb770bd6ec53fb5cdb",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220
+      ],
+      "distinct_frames": 9,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/02_出发啦.gif",
+      "role": "sticker 2"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 12769,
+      "sha256": "5c9a3ad04e499f5d599a4425c5d0bb6dc9f29a42377ad208a15403a447cb94a5",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/02_出发啦.png",
+      "role": "thumbnail 2"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 9,
+      "loop": 0,
+      "bytes": 168255,
+      "sha256": "c91d77f3b09bd4fb58f0bcb382af15591c6b350264d14ba60a13515306855621",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220
+      ],
+      "distinct_frames": 9,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/03_找到啦.gif",
+      "role": "sticker 3"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 14063,
+      "sha256": "19048f134b75bcfeae554dc0df6278f970958381ac6a974a4d7b215a483dd72a",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/03_找到啦.png",
+      "role": "thumbnail 3"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 9,
+      "loop": 0,
+      "bytes": 200985,
+      "sha256": "b11307bcf1ebc4b4f0f7e6625556df0611f8793e256c534a87406eef0bd39944",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220
+      ],
+      "distinct_frames": 9,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/04_摸鱼中.gif",
+      "role": "sticker 4"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 15626,
+      "sha256": "f32bf961e881d94000d69ce4e36f388a1c31c82fc13ade2e3b02c29e00efdabd",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/04_摸鱼中.png",
+      "role": "thumbnail 4"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 9,
+      "loop": 0,
+      "bytes": 160616,
+      "sha256": "9408ea9f5c9eafb2bd507e0d2870077ac16cb53609ce0c3307a41aadfe90fe8a",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220
+      ],
+      "distinct_frames": 9,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/05_抱抱.gif",
+      "role": "sticker 5"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 12734,
+      "sha256": "81c73c93b0c3144d596a01029f62ecc5da4dc6519c69cd889c17bb62abda6dba",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/05_抱抱.png",
+      "role": "thumbnail 5"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 9,
+      "loop": 0,
+      "bytes": 182294,
+      "sha256": "6dec759cb477c0ecb4335b1a4c2b5f908ec964a2fc3717fb60d99bc241886af1",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220
+      ],
+      "distinct_frames": 9,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/06_补充能量.gif",
+      "role": "sticker 6"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 14940,
+      "sha256": "1d34ae6af790cb5161495c82ab143682136aa77f2be59bffabd33958a6bf6057",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/06_补充能量.png",
+      "role": "thumbnail 6"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 9,
+      "loop": 0,
+      "bytes": 131559,
+      "sha256": "6bcf86d2ecfe658e6f7a893479bd812b631498d38d7f07456e1985c9fa03b121",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220
+      ],
+      "distinct_frames": 9,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/07_信号不好.gif",
+      "role": "sticker 7"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 10626,
+      "sha256": "d5e7dfcf46e1e3788c32048afbe83d75dc43b4013e93eac2ee202d9ff3f2be31",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/07_信号不好.png",
+      "role": "thumbnail 7"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 9,
+      "loop": 0,
+      "bytes": 176408,
+      "sha256": "12ec4bb5dcd3238e80836337acbc9099632a98ac4bdec11a9ce55d537ab16238",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220
+      ],
+      "distinct_frames": 9,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/08_晚安地球.gif",
+      "role": "sticker 8"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 14218,
+      "sha256": "a1e190989e90d6e4d0c768d7104a6de073fe03b52dc52ed6e1b21e09436f2874",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/08_晚安地球.png",
+      "role": "thumbnail 8"
+    },
+    {
+      "size": [
+        750,
+        400
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 381778,
+      "sha256": "5fa0b5fb110e6dd09e51fe6c25cd2ab64582f74e6ac8298ab280dd994a680f1e",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "assets/banner.png",
+      "role": "banner"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 52905,
+      "sha256": "fd7ceda850a4f5026705fe3e5d72254063faa5b588e60b379089c2fe8e446c31",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "file": "assets/cover.png",
+      "role": "cover"
+    },
+    {
+      "size": [
+        50,
+        50
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 4239,
+      "sha256": "806dd487c659386c89fa79d72bc9182ad97904df24137617994fc04948b9c83e",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "file": "assets/icon.png",
+      "role": "icon"
+    },
+    {
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 467184,
+      "sha256": "ada73582f4562b00a232b6a03e89e2b3c4c0d9c0ccb2edaf1740f30b29d99c11",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "assets/support.png",
+      "role": "support"
+    },
+    {
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 616528,
+      "sha256": "d3a711350c634930d3be330fb170dbe5d1ed02359aee8c9b2ed0ab6faab6b586",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "assets/thanks.png",
+      "role": "thanks"
+    }
+  ]
+}

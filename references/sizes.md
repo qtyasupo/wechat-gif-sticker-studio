@@ -4,7 +4,7 @@
 
 | 用途 | 交付尺寸 | 格式与背景 | 检查重点 |
 | --- | --- | --- | --- |
-| 统一静态造型参考 | 512×512 | PNG；按选择纯白或真实透明 | 单角色、无台词、完整耳朵和四肢，约8%安全边距；用户确认 |
+| 统一静态造型参考 | 512×512 | PNG；按选择纯白、主题背景或真实透明 | 单角色、无台词、完整耳朵和四肢，约8%安全边距；用户确认 |
 | 静态高清原稿 | 建议1024×1024或以上 | 原始PNG | 保留另存，不将生成目标当实际输出尺寸 |
 | 网页GIF创作目标 | 512×512、约2秒循环 | GIF；透明需实际核验 | 与上传规格分开；实际输出由入口决定 |
 | 像素风方法参考 | 上游常见320×320 | GIF | 仅在用户选像素风时借鉴 |
@@ -29,3 +29,5 @@ python scripts/sticker_pack.py resize-asset --input reference-master.png --outpu
 导出后用Pillow读取 `Image.open('reference.png').size`，应为 `(512, 512)`；需透明时检查A通道既有0也有255。用实际导出图请用户确认。尺寸检查不判断身份是否一致。
 
 本例：[洛小咪512px参考图](../examples/luoxiaomi2/reference.png)、[五张配图](../examples/luoxiaomi2/assets-preview.jpg)。
+
+主题背景例：[太空像素参考](../examples/luoxiaomi-space/reference.png)、[五张配图](../examples/luoxiaomi-space/assets-preview.jpg)。不透明创作场景与透明封面／图标分别交付。像素图采用最近邻等比缩放保留色块，避免平滑采样带来模糊；最终缩小后仍需看图核对。

@@ -1,0 +1,57 @@
+{
+  "album": {
+    "name": "洛小咪遨游太空",
+    "intro": "银灰虎斑洛小咪穿上宇航服，带你遨游像素宇宙。收到就敬礼，开心就出发，累了补能量，偶尔摸个鱼，再送你一个星际抱抱。八个太空小表情，陪你把日常聊到星空里。",
+    "copyright": "AIYasupo",
+    "support_prompt": "为洛小咪补充点能量"
+  },
+  "stickers": [
+    {
+      "caption": "收到",
+      "file": "stickers/01_收到.gif",
+      "thumbnail": "thumbnails/01_收到.png"
+    },
+    {
+      "caption": "出发啦",
+      "file": "stickers/02_出发啦.gif",
+      "thumbnail": "thumbnails/02_出发啦.png"
+    },
+    {
+      "caption": "找到啦",
+      "file": "stickers/03_找到啦.gif",
+      "thumbnail": "thumbnails/03_找到啦.png"
+    },
+    {
+      "caption": "摸鱼中",
+      "file": "stickers/04_摸鱼中.gif",
+      "thumbnail": "thumbnails/04_摸鱼中.png"
+    },
+    {
+      "caption": "抱抱",
+      "file": "stickers/05_抱抱.gif",
+      "thumbnail": "thumbnails/05_抱抱.png"
+    },
+    {
+      "caption": "补充能量",
+      "file": "stickers/06_补充能量.gif",
+      "thumbnail": "thumbnails/06_补充能量.png"
+    },
+    {
+      "caption": "信号不好",
+      "file": "stickers/07_信号不好.gif",
+      "thumbnail": "thumbnails/07_信号不好.png"
+    },
+    {
+      "caption": "晚安地球",
+      "file": "stickers/08_晚安地球.gif",
+      "thumbnail": "thumbnails/08_晚安地球.png"
+    }
+  ],
+  "assets": {
+    "banner": "assets/banner.png",
+    "cover": "assets/cover.png",
+    "icon": "assets/icon.png",
+    "support": "assets/support.png",
+    "thanks": "assets/thanks.png"
+  }
+}
