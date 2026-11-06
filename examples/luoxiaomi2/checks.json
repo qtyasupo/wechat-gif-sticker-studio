@@ -1,0 +1,512 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [
+    "Visual review and current platform submission validation remain necessary."
+  ],
+  "sticker_count": 8,
+  "files": [
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 8,
+      "loop": 0,
+      "bytes": 239693,
+      "sha256": "0dbb2166846d1b8cbd84826da8b0739c0a9e160a39da4f8eb3ca7118cf1de6e3",
+      "duration_ms": 2000,
+      "frame_durations_ms": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ],
+      "distinct_frames": 8,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/01_嗨起来.gif",
+      "role": "sticker 1"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 19005,
+      "sha256": "ee5e6c9cbe97fffcbd9a7b2327017118e54344486cf7c726bc13ce5d210ab645",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/01_嗨起来.png",
+      "role": "thumbnail 1"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 4,
+      "loop": 0,
+      "bytes": 116640,
+      "sha256": "2d2e3650e5a804966db1418c06795e4dfc99bb6ef4368047e28d05e476441fea",
+      "duration_ms": 2000,
+      "frame_durations_ms": [
+        500,
+        500,
+        500,
+        500
+      ],
+      "distinct_frames": 4,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/02_收到.gif",
+      "role": "sticker 2"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 18345,
+      "sha256": "e492789ff313bded25f3e336212f446d970eb9c8429ec8830dd3ed35c6d3db3d",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/02_收到.png",
+      "role": "thumbnail 2"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 6,
+      "loop": 0,
+      "bytes": 161163,
+      "sha256": "4c951cbd40eb9a286ef8b5b8184652011238802723debed49cbaf5a534f09aff",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        330,
+        330,
+        330,
+        330,
+        330,
+        330
+      ],
+      "distinct_frames": 6,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/03_开饭了.gif",
+      "role": "sticker 3"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 17576,
+      "sha256": "e9a2ce12b9e13cbc297533244a2baa9343e72e7973efe836ee214040e1018036",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/03_开饭了.png",
+      "role": "thumbnail 3"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 6,
+      "loop": 0,
+      "bytes": 173107,
+      "sha256": "11c77245d64b57191f0cb4a4eac4c82a06e79a171b59dda288fa45be70b21951",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        330,
+        330,
+        330,
+        330,
+        330,
+        330
+      ],
+      "distinct_frames": 6,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/04_不想上班.gif",
+      "role": "sticker 4"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 18428,
+      "sha256": "52fbe92407c63ebedfed2af550e07498bd3de98668ada2a22d04df0f229874b9",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/04_不想上班.png",
+      "role": "thumbnail 4"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 6,
+      "loop": 0,
+      "bytes": 159467,
+      "sha256": "8d492624066919673ba9054471b8c342ea391b1113ba9573149c4a2bae0adceb",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        330,
+        330,
+        330,
+        330,
+        330,
+        330
+      ],
+      "distinct_frames": 6,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/05_摸鱼中.gif",
+      "role": "sticker 5"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 18891,
+      "sha256": "e74123e0e2a5c10ecf276b438e6ca0953e733320011b3c80e2b1afe455007939",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/05_摸鱼中.png",
+      "role": "thumbnail 5"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 6,
+      "loop": 0,
+      "bytes": 168950,
+      "sha256": "9a34923b17bcd6642f08679083465953dfbaba3f42df4d44b7f82a1d686c4257",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        330,
+        330,
+        330,
+        330,
+        330,
+        330
+      ],
+      "distinct_frames": 6,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/06_抱抱.gif",
+      "role": "sticker 6"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 17335,
+      "sha256": "9683c664c36f60df6f969902d0bf62327ca87a9eb526bde83f0905e431def392",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/06_抱抱.png",
+      "role": "thumbnail 6"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 6,
+      "loop": 0,
+      "bytes": 176218,
+      "sha256": "c463f88886b7b73e92085cccf40e462d66a50d5c1a34c5c7b53a2a41c0a2e7b4",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        330,
+        330,
+        330,
+        330,
+        330,
+        330
+      ],
+      "distinct_frames": 6,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/07_气鼓鼓.gif",
+      "role": "sticker 7"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 18894,
+      "sha256": "c6be87d1df55c4dff209bb0bb87eb84cebdcd9b28e28aaf75d6aa656dbec5b98",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/07_气鼓鼓.png",
+      "role": "thumbnail 7"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "GIF",
+      "frames": 6,
+      "loop": 0,
+      "bytes": 208936,
+      "sha256": "ead61b5c90d2304d0e6311ebbad113dabb15819ef51e176d5f36edf6a1732f30",
+      "duration_ms": 1980,
+      "frame_durations_ms": [
+        330,
+        330,
+        330,
+        330,
+        330,
+        330
+      ],
+      "distinct_frames": 6,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "stickers/08_晚安.gif",
+      "role": "sticker 8"
+    },
+    {
+      "size": [
+        120,
+        120
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 21389,
+      "sha256": "214833b9215f71b8bb805bfe654aa0f2016b659375256595e3f23f35bec07c9c",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "thumbnails/08_晚安.png",
+      "role": "thumbnail 8"
+    },
+    {
+      "size": [
+        750,
+        400
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 534025,
+      "sha256": "cae2a312ab52783164397375150bd03a60cc78b7400b6a24d775a349422304b5",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "assets/banner.png",
+      "role": "banner"
+    },
+    {
+      "size": [
+        240,
+        240
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 60156,
+      "sha256": "515ec29e6b3ba53ee15eafaa93c0b05c3556ac2b8e087389803dd94c8d8564d1",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "file": "assets/cover.png",
+      "role": "cover"
+    },
+    {
+      "size": [
+        50,
+        50
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 5416,
+      "sha256": "6c591814914532086aefee58fe4fddd4e2fd8e2ca271a36f76b5fd5d997ce28d",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        0,
+        255
+      ],
+      "file": "assets/icon.png",
+      "role": "icon"
+    },
+    {
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 559195,
+      "sha256": "c63eaee474f716ba244161a8a892b03e4fac1b9bcd082236fd8723a9495bed36",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "assets/support.png",
+      "role": "support"
+    },
+    {
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "loop": null,
+      "bytes": 769353,
+      "sha256": "6a336f746e3c108a9ee2e27d0ddbab9ba73c465721b5563089b0ff3f3fc92050",
+      "duration_ms": 0,
+      "frame_durations_ms": [
+        0
+      ],
+      "distinct_frames": 1,
+      "alpha_range": [
+        255,
+        255
+      ],
+      "file": "assets/thanks.png",
+      "role": "thanks"
+    }
+  ]
+}

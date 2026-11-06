@@ -1,0 +1,57 @@
+{
+  "album": {
+    "name": "洛小咪的日常2",
+    "intro": "银灰虎斑洛小咪，穿上黄卫衣，陪你认真回复、快乐干饭、偷偷摸鱼，也陪你撒娇抱抱、闹点小脾气。八个日常小表情，把心情交给洛小咪。",
+    "copyright": "AIYasupo",
+    "support_prompt": "请洛小咪吃条小鱼吧"
+  },
+  "stickers": [
+    {
+      "caption": "嗨起来",
+      "file": "stickers/01_嗨起来.gif",
+      "thumbnail": "thumbnails/01_嗨起来.png"
+    },
+    {
+      "caption": "收到",
+      "file": "stickers/02_收到.gif",
+      "thumbnail": "thumbnails/02_收到.png"
+    },
+    {
+      "caption": "开饭了",
+      "file": "stickers/03_开饭了.gif",
+      "thumbnail": "thumbnails/03_开饭了.png"
+    },
+    {
+      "caption": "不想上班",
+      "file": "stickers/04_不想上班.gif",
+      "thumbnail": "thumbnails/04_不想上班.png"
+    },
+    {
+      "caption": "摸鱼中",
+      "file": "stickers/05_摸鱼中.gif",
+      "thumbnail": "thumbnails/05_摸鱼中.png"
+    },
+    {
+      "caption": "抱抱",
+      "file": "stickers/06_抱抱.gif",
+      "thumbnail": "thumbnails/06_抱抱.png"
+    },
+    {
+      "caption": "气鼓鼓",
+      "file": "stickers/07_气鼓鼓.gif",
+      "thumbnail": "thumbnails/07_气鼓鼓.png"
+    },
+    {
+      "caption": "晚安",
+      "file": "stickers/08_晚安.gif",
+      "thumbnail": "thumbnails/08_晚安.png"
+    }
+  ],
+  "assets": {
+    "banner": "assets/banner.png",
+    "cover": "assets/cover.png",
+    "icon": "assets/icon.png",
+    "support": "assets/support.png",
+    "thanks": "assets/thanks.png"
+  }
+}

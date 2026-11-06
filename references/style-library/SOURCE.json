@@ -1,0 +1,1184 @@
+{
+  "repository": "https://github.com/WoYun520/pixel-gif-sticker-pack",
+  "commit": "94561fef11744e8145311534274affb8d7f55716",
+  "retrieved": "2026-11-06",
+  "license": "MIT; preserve per-image sources and third-party terms",
+  "scope": "Examples and reference documents only; external links repaired for portable browsing. Not a second installed skill.",
+  "files": [
+    {
+      "path": "examples/01-replies/001.gif",
+      "bytes": 415816,
+      "sha256": "bc012e6784516d5e20c187deadb2e1bf8ac775866cb8385c15e5499e71bc55c1"
+    },
+    {
+      "path": "examples/01-replies/002.gif",
+      "bytes": 385949,
+      "sha256": "1f832f81f6e10efecec42a17b524e457c28e1a84ba69d0573b5b1f2c752024cd"
+    },
+    {
+      "path": "examples/01-replies/003.gif",
+      "bytes": 413100,
+      "sha256": "53694ae80e7bdd96e7046dc0a881f058b29b8f9a02f23398fd5f44443dba7363"
+    },
+    {
+      "path": "examples/01-replies/004.gif",
+      "bytes": 387652,
+      "sha256": "04cb8c292f24107b1ee87fe8eb249f4fe3133044054276d80a65df4d2e7686cb"
+    },
+    {
+      "path": "examples/01-replies/005.gif",
+      "bytes": 399983,
+      "sha256": "2a363a0287baf107df9d6d44ea05cd437ca37264d0ba013d2114136381e37e5e"
+    },
+    {
+      "path": "examples/01-replies/006.gif",
+      "bytes": 412058,
+      "sha256": "12bc0bdff935ca62a7335d44e4a0682d9a82642623148f1670b40eed8367759d"
+    },
+    {
+      "path": "examples/01-replies/007.gif",
+      "bytes": 373998,
+      "sha256": "c7f846076a2a20dd4b56432df26d462f9317a88f50f64c15780e6bdc1631809c"
+    },
+    {
+      "path": "examples/01-replies/008.gif",
+      "bytes": 415138,
+      "sha256": "326975b9436227a678c8ebdb317127ef5f37780b2d0d3603456070b77be9920d"
+    },
+    {
+      "path": "examples/01-replies/009.gif",
+      "bytes": 379872,
+      "sha256": "4e69d66e593e73583bce3a25713f1b2e89a42d9fc159a28693e56e3110d01da0"
+    },
+    {
+      "path": "examples/01-replies/010.gif",
+      "bytes": 352937,
+      "sha256": "657cb6c689e78658c5ef096b5147bdfd9ce6007c7066e03c36f3eb6110718c72"
+    },
+    {
+      "path": "examples/01-replies/011.gif",
+      "bytes": 365913,
+      "sha256": "cbd476298b0a73a41131e565b8a8dc50328c6fade8cebabe93a4182201b2861d"
+    },
+    {
+      "path": "examples/01-replies/012.gif",
+      "bytes": 440277,
+      "sha256": "a105bd2c2c2117d9a787039e5cd17cd9e39bada70488c80878ade9e0c28c0363"
+    },
+    {
+      "path": "examples/01-replies/013.gif",
+      "bytes": 386180,
+      "sha256": "4eb709c9124c9dfd520632eee48dbcb9e61ede8e77293b55a4a890c1660c8a20"
+    },
+    {
+      "path": "examples/01-replies/014.gif",
+      "bytes": 408285,
+      "sha256": "48a2814dd144f65b03c66ba129925d67331560664587ea2a4b92f12b9c4cf972"
+    },
+    {
+      "path": "examples/01-replies/015.gif",
+      "bytes": 372583,
+      "sha256": "ce1947cc50e804142e317f85e79cda6c3d7d138d8e99ccbca357b820c1027de8"
+    },
+    {
+      "path": "examples/01-replies/016.gif",
+      "bytes": 407560,
+      "sha256": "19ed9ccec1b054a876f96eb8360626c70f3f4998db7d7ee1752da51d03ad6c15"
+    },
+    {
+      "path": "examples/02-emotions/017.gif",
+      "bytes": 390977,
+      "sha256": "dfebaa9012d9d51aab7c1d968a9f4e3234609ef5b46b092e372382f09eb3fc2d"
+    },
+    {
+      "path": "examples/02-emotions/018.gif",
+      "bytes": 372672,
+      "sha256": "7bdf029b454565aec001068043bbef48641846c4aece358a65a90c34d9a8845e"
+    },
+    {
+      "path": "examples/02-emotions/019.gif",
+      "bytes": 334297,
+      "sha256": "67b2b0a4e0647f35e054f769c8a7ddabaf46f23eafeeb55633822d9059f8420c"
+    },
+    {
+      "path": "examples/02-emotions/020.gif",
+      "bytes": 393560,
+      "sha256": "cbf7ccc23c87ebab1359447d87a3ebb0fa3bee2ecfe7e6166a53036e2220c643"
+    },
+    {
+      "path": "examples/02-emotions/021.gif",
+      "bytes": 393068,
+      "sha256": "5b7ce558d734b3949e17a94d81f70741d0dfd925cdca48d729bb03504d68c3cc"
+    },
+    {
+      "path": "examples/02-emotions/022.gif",
+      "bytes": 400409,
+      "sha256": "b1f2a21e6d9c51a77a69188b72d07f7568a946cc5c25ecf685c57ed9a0605e70"
+    },
+    {
+      "path": "examples/02-emotions/023.gif",
+      "bytes": 417100,
+      "sha256": "6c783992fee3a6b6f8b79abaa8e801e6e341c1f4681d1d6311616919ddcc2ad8"
+    },
+    {
+      "path": "examples/02-emotions/024.gif",
+      "bytes": 370252,
+      "sha256": "ebae778697afa6c667cf4e2f9343a7b1919574ddd4035cd90e4dcc0af230ae72"
+    },
+    {
+      "path": "examples/02-emotions/025.gif",
+      "bytes": 374744,
+      "sha256": "30b00672a3b898913b9ffa103f9692708b426e8ebbfecd6ec3dd1a7032e17601"
+    },
+    {
+      "path": "examples/02-emotions/026.gif",
+      "bytes": 361033,
+      "sha256": "821ecd88c0522cabc947045b8dd8e3b769e76f983a85286e801e3cbba27d8353"
+    },
+    {
+      "path": "examples/02-emotions/027.gif",
+      "bytes": 411780,
+      "sha256": "f52bbabf831cbcfd8bf4a3596029284f39e951388d70132e038f5b814103e7d6"
+    },
+    {
+      "path": "examples/02-emotions/028.gif",
+      "bytes": 390026,
+      "sha256": "116d4d2fdf925499db2ded73ab0b94a29349b50cb76612d1449a8d6c3d7c6ff2"
+    },
+    {
+      "path": "examples/02-emotions/029.gif",
+      "bytes": 391097,
+      "sha256": "9b5cedb84088724e03a0dfe16c97e8263e7faf955e1682345e7d27c65c035325"
+    },
+    {
+      "path": "examples/02-emotions/030.gif",
+      "bytes": 406780,
+      "sha256": "3eba258ffe58c82db7920feb47d643874b3871eabfaaadf70425b4ab7eea72c8"
+    },
+    {
+      "path": "examples/02-emotions/031.gif",
+      "bytes": 397209,
+      "sha256": "b23cb8b141c1cdcee2feb0551bcd9ee0af4b685c8da25ce926855971cdf22454"
+    },
+    {
+      "path": "examples/02-emotions/032.gif",
+      "bytes": 422657,
+      "sha256": "5614146e13fe2f6842880a62b0c470af6e85f9bc3991b901b1eb6f0225f1ce1c"
+    },
+    {
+      "path": "examples/03-companionship/033.gif",
+      "bytes": 399742,
+      "sha256": "f5df52367f6aa636bf143fbbc7e1e1bbb9fa3b217d3bb61b1bb16b8e060b6484"
+    },
+    {
+      "path": "examples/03-companionship/034.gif",
+      "bytes": 404060,
+      "sha256": "9507cfbceb90f7f6621a4f5b646e53b864cd9c9310b3d73a4668efa5e70b8d2c"
+    },
+    {
+      "path": "examples/03-companionship/035.gif",
+      "bytes": 422546,
+      "sha256": "b467f985bfff7f37bfd1daf761223bbe2017f79a800710c0ed5e7e675c16cdbf"
+    },
+    {
+      "path": "examples/03-companionship/036.gif",
+      "bytes": 399449,
+      "sha256": "2a047af1dd877647be3450dc33bd6f6596d417eb0cda46db68401cd09abc2629"
+    },
+    {
+      "path": "examples/03-companionship/037.gif",
+      "bytes": 419921,
+      "sha256": "75e3001badff479c9b9590ccc2b132541511818d93c78d97c61fe3f5a357a496"
+    },
+    {
+      "path": "examples/03-companionship/038.gif",
+      "bytes": 424229,
+      "sha256": "c7ff3660b7fc80af91d54125bc2986e92bf494d0eb7f433a1c7db861b70cea40"
+    },
+    {
+      "path": "examples/03-companionship/039.gif",
+      "bytes": 424645,
+      "sha256": "8500dc5486fbfba72bcac191dc0a61b6295019462924dcfad4f2a9f5d9b304d4"
+    },
+    {
+      "path": "examples/03-companionship/040.gif",
+      "bytes": 425601,
+      "sha256": "fcf660f48a74ff19b61883026af071feebe60c3393ac03a36708194e05bd96dd"
+    },
+    {
+      "path": "examples/03-companionship/041.gif",
+      "bytes": 420900,
+      "sha256": "d272432cdd396731ef323134b2ceea4293784138d5a5b64d9c0eae82f18c8d7a"
+    },
+    {
+      "path": "examples/03-companionship/042.gif",
+      "bytes": 420554,
+      "sha256": "d89293a61f19a44a3659aeae9bc11eec0fe2a30e91b95115388f5faecb8630fc"
+    },
+    {
+      "path": "examples/03-companionship/043.gif",
+      "bytes": 397081,
+      "sha256": "1d230b83a0b8ccbd1cccbdcacbe4bff03212877e40f7e0ff3b7702756281db83"
+    },
+    {
+      "path": "examples/03-companionship/044.gif",
+      "bytes": 405261,
+      "sha256": "15d30956b0816a8d5e11f2f8bcc299938a052e216df09e94682df1f0c5058140"
+    },
+    {
+      "path": "examples/03-companionship/045.gif",
+      "bytes": 447034,
+      "sha256": "0d8210f67561fe696da7bdd06edce347dde1fc80460250fbbd44c99581661d89"
+    },
+    {
+      "path": "examples/03-companionship/046.gif",
+      "bytes": 464343,
+      "sha256": "4d6ea913e9b2f90692216ea5cbd77483e98f2ef0fb256cfcac52acd5d1b9495f"
+    },
+    {
+      "path": "examples/03-companionship/047.gif",
+      "bytes": 433862,
+      "sha256": "0e1687abbcb8e022dd6ce0f281b042ee5e85dbb1b8d2a33ab53462c08114d3cf"
+    },
+    {
+      "path": "examples/03-companionship/048.gif",
+      "bytes": 427194,
+      "sha256": "53ff82dac2bcd9b94d0dfdeffaecce4a115273ebfe0b2c407d8bafd4db7e91d2"
+    },
+    {
+      "path": "examples/04-work/049.gif",
+      "bytes": 406599,
+      "sha256": "b13b7203f165fc2f956443534b452e1d96d069a893c5ffd3c6eb0d8ae45ae15c"
+    },
+    {
+      "path": "examples/04-work/050.gif",
+      "bytes": 387063,
+      "sha256": "1148f1edad9293e05a6570c01c38ee352eeb3176f7edc6e7eaf770eb55e43ff4"
+    },
+    {
+      "path": "examples/04-work/051.gif",
+      "bytes": 404864,
+      "sha256": "cc6d433e02491368aedc5a86f34a65c8d7119d8321f7346647d968b804a0a3f7"
+    },
+    {
+      "path": "examples/04-work/052.gif",
+      "bytes": 418797,
+      "sha256": "84b4ed305d4cb19a1465a81517cf1e62b45140fce8f3698aa7e406990f9b9638"
+    },
+    {
+      "path": "examples/04-work/053.gif",
+      "bytes": 421366,
+      "sha256": "6f9cbf228407e70a13875028b77e5254203bb677f0e70eb3bbdf30f29dd80085"
+    },
+    {
+      "path": "examples/04-work/054.gif",
+      "bytes": 392689,
+      "sha256": "7e662c760cfc91772328e18b2c52b6fa8c5faabb1cbf4e10d547475144d8a407"
+    },
+    {
+      "path": "examples/04-work/055.gif",
+      "bytes": 423126,
+      "sha256": "6d4cdf11ab56f57eaeed1a03f5eb783773a8a34fe9a2a3bc926561d282d030d7"
+    },
+    {
+      "path": "examples/04-work/056.gif",
+      "bytes": 414965,
+      "sha256": "93bd3a2a4d7bebeb7fdfe16a36c7397ff3434da2c250bc93400fcea25b5aefb5"
+    },
+    {
+      "path": "examples/04-work/057.gif",
+      "bytes": 416576,
+      "sha256": "7baddde275e803b3f092e1b0f13bd3e8e70554a11908c08e80fe3523a847df29"
+    },
+    {
+      "path": "examples/04-work/058.gif",
+      "bytes": 418793,
+      "sha256": "ae3667b559194fbc582d9072fa865f4e78b4a774cc79881808ffaffd92e95133"
+    },
+    {
+      "path": "examples/04-work/059.gif",
+      "bytes": 415232,
+      "sha256": "6920a1ead891bde4f36346abc9e7081d11cba508e03f8b743358348932bc4666"
+    },
+    {
+      "path": "examples/04-work/060.gif",
+      "bytes": 412517,
+      "sha256": "b52021ca157cfbabee735284a8dd9a8f40ac66a88de159d3a28596d72bec4dbe"
+    },
+    {
+      "path": "examples/04-work/061.gif",
+      "bytes": 420129,
+      "sha256": "0607f18b1f4461172469ba858fe671cb468c0a3dba51a5cbafa48012aad6d8dd"
+    },
+    {
+      "path": "examples/04-work/062.gif",
+      "bytes": 424237,
+      "sha256": "2de31937e1c724a1cf8defc8629cbacafbfa3aa603b2b03343bff70f66afc58e"
+    },
+    {
+      "path": "examples/04-work/063.gif",
+      "bytes": 388710,
+      "sha256": "921eedb8536bdfbdbddf22a3868d9b58340f8eea6cb56adf682005f23678fe18"
+    },
+    {
+      "path": "examples/04-work/064.gif",
+      "bytes": 418451,
+      "sha256": "2b6a9b2ec6dcdd62482f9a3f455f9354dc2a1dbabe6ad364c7417a6524cb12b9"
+    },
+    {
+      "path": "examples/05-food-and-fun/065.gif",
+      "bytes": 428677,
+      "sha256": "1ff22ac6bfa2f068ad741651cf59497d5868c78df9ee2b4713329e8f955d3dec"
+    },
+    {
+      "path": "examples/05-food-and-fun/066.gif",
+      "bytes": 409155,
+      "sha256": "d0efdbf9cda07cab907ef939790c944a2e22531b41b4cb2ffc4662e046ba3044"
+    },
+    {
+      "path": "examples/05-food-and-fun/067.gif",
+      "bytes": 421758,
+      "sha256": "cf6b4553b2b8163154a5c7743a6c59861782e31880917999c88942849bdd14b4"
+    },
+    {
+      "path": "examples/05-food-and-fun/068.gif",
+      "bytes": 422964,
+      "sha256": "88f394ede42ce11f880f1d482064cf502b9ab867e75d08895d56e28b2cb80e5b"
+    },
+    {
+      "path": "examples/05-food-and-fun/069.gif",
+      "bytes": 422305,
+      "sha256": "7a0313065c58ed768ae0479ce28c966bfa6de04ab26437e76dc2e66585fe9c8d"
+    },
+    {
+      "path": "examples/05-food-and-fun/070.gif",
+      "bytes": 430671,
+      "sha256": "78c75e302c9b7f42ff52503fb26a47d1d5e40fcc49682e7452b856eae71cc08d"
+    },
+    {
+      "path": "examples/05-food-and-fun/071.gif",
+      "bytes": 418537,
+      "sha256": "ed958f553444c8c96656f5509b95548d687c1d7bfd51fc278f30cd0d5692cbe9"
+    },
+    {
+      "path": "examples/05-food-and-fun/072.gif",
+      "bytes": 418754,
+      "sha256": "065a8ef23bfb729bb1d325cab9f205aeb651bf14910fe06b7b23a3163c2d519c"
+    },
+    {
+      "path": "examples/05-food-and-fun/073.gif",
+      "bytes": 428084,
+      "sha256": "003d9ff112940bc478696c8d4c08ce94024496133bdf434178b8a83eb2b6b0a4"
+    },
+    {
+      "path": "examples/05-food-and-fun/074.gif",
+      "bytes": 435398,
+      "sha256": "9669381bc920741399414c21056e253bb7b68b085c2ca2861e9b4882ff31067b"
+    },
+    {
+      "path": "examples/05-food-and-fun/075.gif",
+      "bytes": 420377,
+      "sha256": "db4e195a4e1e3b6f9de3c8f6ade3a150e20e7deb61d52eefd645dd00fa159257"
+    },
+    {
+      "path": "examples/05-food-and-fun/076.gif",
+      "bytes": 444188,
+      "sha256": "88228397a507dc27dfb4f20f940c93c83e4b73a29377f87f48dd3e49cf3091c6"
+    },
+    {
+      "path": "examples/05-food-and-fun/077.gif",
+      "bytes": 450438,
+      "sha256": "c46a052d284e2dce0bf3ba5c454639518e6688edadf88a82613a4feb9d51c6be"
+    },
+    {
+      "path": "examples/05-food-and-fun/078.gif",
+      "bytes": 456017,
+      "sha256": "0bb550341c6b69f983a34c33826d328e8f38bc99d04fcee21ee86a41e8a825c2"
+    },
+    {
+      "path": "examples/05-food-and-fun/079.gif",
+      "bytes": 459725,
+      "sha256": "f875dcbd4e1f16fa954e308ae4eb5c66acd87fa3ba3299a004b7911093ff163e"
+    },
+    {
+      "path": "examples/05-food-and-fun/080.gif",
+      "bytes": 414195,
+      "sha256": "3a0e1c2e597a26aaaaac2a58cd66b06c8725108a0b799dcc7e2b276c106ee9f1"
+    },
+    {
+      "path": "examples/06-daily-life/081.gif",
+      "bytes": 401042,
+      "sha256": "5d9a53ac41ea06d761d505173138b13a69a207ba313ac0131f760f83cb9a2364"
+    },
+    {
+      "path": "examples/06-daily-life/082.gif",
+      "bytes": 394354,
+      "sha256": "0ec767014761dfbdb18564fbadb10dcca587dc9de3778e05dcf46f9e12b207c3"
+    },
+    {
+      "path": "examples/06-daily-life/083.gif",
+      "bytes": 408595,
+      "sha256": "9860c28e57fd981ca04fa10b24dd37ffd7e8691b88fdf0c2ada23eeecae8094f"
+    },
+    {
+      "path": "examples/06-daily-life/084.gif",
+      "bytes": 460793,
+      "sha256": "690ee33a9662709c83ce2f8e458438087558a1947a086da7eec627b49944f042"
+    },
+    {
+      "path": "examples/06-daily-life/085.gif",
+      "bytes": 460984,
+      "sha256": "3703b50cfc00733bca559d678167674d1b30f7690fa9b92166f71ca051f0b397"
+    },
+    {
+      "path": "examples/06-daily-life/086.gif",
+      "bytes": 493881,
+      "sha256": "e4e52c436d45e677a973459e1f80372a4cfadb1864eebed4d11522cdd1bbbb22"
+    },
+    {
+      "path": "examples/06-daily-life/087.gif",
+      "bytes": 430664,
+      "sha256": "68646ec98239e71c49211f5dafb044a5e16b7b9b4590dae36af6d13aaf545fd1"
+    },
+    {
+      "path": "examples/06-daily-life/088.gif",
+      "bytes": 425636,
+      "sha256": "f52bd5888ca03643066a51ba8bb0aa64faa4b8dfcd0b28d526fc38e806f52e3c"
+    },
+    {
+      "path": "examples/06-daily-life/089.gif",
+      "bytes": 427763,
+      "sha256": "0a58fa72b708e8e03a5a350e85318d5025401b5330ec971116530a6e33f7333c"
+    },
+    {
+      "path": "examples/06-daily-life/090.gif",
+      "bytes": 439880,
+      "sha256": "4a8c99ca05f96eb5b88c118b1057ffbe00e95bc9ae0fff02cdead02f968ff914"
+    },
+    {
+      "path": "examples/06-daily-life/091.gif",
+      "bytes": 388442,
+      "sha256": "cc97c8de4bf9abe0e493b15104e408a44db9010b7a2d2e56ff55a7ff0f72a0e5"
+    },
+    {
+      "path": "examples/06-daily-life/092.gif",
+      "bytes": 428882,
+      "sha256": "0bb0f7aaccbc225adeea2dea15b50835447faa6bb3b238e02fbb1fc4a1c4f0ff"
+    },
+    {
+      "path": "examples/06-daily-life/093.gif",
+      "bytes": 426423,
+      "sha256": "79c9f95b55acd5119fbce465af3028655528891e721fb66bb7ba2c00c895d1c0"
+    },
+    {
+      "path": "examples/06-daily-life/094.gif",
+      "bytes": 404392,
+      "sha256": "c4b7f6ac269660cad42683525ca60345729e8dfe37dce4b79766a2910c45f0c5"
+    },
+    {
+      "path": "examples/06-daily-life/095.gif",
+      "bytes": 502573,
+      "sha256": "4c01bbe0f19fa80373d6e4262fcf222b8cd9fa5b507065fe08b08222e846c181"
+    },
+    {
+      "path": "examples/06-daily-life/096.gif",
+      "bytes": 420744,
+      "sha256": "3131256aa7c9b07fa25a39b573a6b1dcc017a06e212fa6f139a473d538776284"
+    },
+    {
+      "path": "examples/07-celebrations/097.gif",
+      "bytes": 352360,
+      "sha256": "916d74942870ed7a2297bd2120ea88e6cc1adc38aec9c36e6e5c99d0c09f8719"
+    },
+    {
+      "path": "examples/07-celebrations/098.gif",
+      "bytes": 345898,
+      "sha256": "991a0a4fa0150aad5000238e9e3ab2909fa3ce9e1dceb4e8eee49b674972b882"
+    },
+    {
+      "path": "examples/07-celebrations/099.gif",
+      "bytes": 370676,
+      "sha256": "1f89706400a29b881c99dc618077fdb8132b94ec7c1341a910d9d2162bb47ab4"
+    },
+    {
+      "path": "examples/07-celebrations/100.gif",
+      "bytes": 346298,
+      "sha256": "2b4020fbb9f40ad2185f3b4c8a27d00ef38dc592b296c2c9a53021ecf2c26f63"
+    },
+    {
+      "path": "examples/anime-stability/anya-frames.png",
+      "bytes": 1620181,
+      "sha256": "065cc45dd938f04b0fca1a67cdf3beb4ecc289bc58edf13077a6326ad6b3b7a1"
+    },
+    {
+      "path": "examples/anime-stability/anya.gif",
+      "bytes": 824943,
+      "sha256": "d1dde1b174103f23d2cfd84b49dae2a7b4968ecb2f712bf3c6e334f2046c0a45"
+    },
+    {
+      "path": "examples/anime-stability/doraemon-frames.png",
+      "bytes": 1413537,
+      "sha256": "5d865667623f67c5a5c3a649a3cf2e074d758ecde030b3cde6a493cec32fdad6"
+    },
+    {
+      "path": "examples/anime-stability/doraemon.gif",
+      "bytes": 717782,
+      "sha256": "5af5fb9521d4c14a5c479152b43cdd78f000b92f2a46dda30f0179450253930f"
+    },
+    {
+      "path": "examples/anime-stability/preview.gif",
+      "bytes": 914964,
+      "sha256": "e8cc662a7c6804d8b8d8f553d73b03f4e15ca863b4d0663c08d3a66749e50cb7"
+    },
+    {
+      "path": "examples/anime-stability/review.json",
+      "bytes": 9614,
+      "sha256": "daa326352a6cff0a68e9ce454ecd8d4098516adf49c576d22e288176cad88cfe"
+    },
+    {
+      "path": "examples/mixed-actions/01-真人/001.gif",
+      "bytes": 329886,
+      "sha256": "07c46254dfa071ec2e2a120fab96394fb53eb9990e9929409ba8bb75fd4ed8ae"
+    },
+    {
+      "path": "examples/mixed-actions/01-真人/002.gif",
+      "bytes": 360073,
+      "sha256": "7629d73681bb60efc9444f887ece1a9bd7f19e43b00c7447074ac040b906c938"
+    },
+    {
+      "path": "examples/mixed-actions/01-真人/003.gif",
+      "bytes": 338526,
+      "sha256": "0c2d61ff1eac16932e8ab071917c0ab5ec19f47e483a120afe37e79c7ba06d2f"
+    },
+    {
+      "path": "examples/mixed-actions/02-二次元/004.gif",
+      "bytes": 324909,
+      "sha256": "9b369ac3810e54a85c4d21a853f097326729bf2cdf135bfd243a02e3e778f563"
+    },
+    {
+      "path": "examples/mixed-actions/02-二次元/005.gif",
+      "bytes": 296515,
+      "sha256": "eedaec8e591cec2869a78657dc8911305b7fa260446495d4d6efe33069d76bb7"
+    },
+    {
+      "path": "examples/mixed-actions/02-二次元/006.gif",
+      "bytes": 315980,
+      "sha256": "45be55923735bd66d762532a15d56908dcec1b02b816d65907e47e706f241443"
+    },
+    {
+      "path": "examples/mixed-actions/generation.json",
+      "bytes": 5860,
+      "sha256": "cce4f841aa62bcdf550ccd39da3dc11fe753d1cf2f35ae0e7ff0c0329c425e97"
+    },
+    {
+      "path": "examples/mixed-actions/preview.gif",
+      "bytes": 601962,
+      "sha256": "96d5402b52c327eb57c244cf17470bb1800f46732698492e81e855ecfc1f14b8"
+    },
+    {
+      "path": "examples/pet-corgi/01-fun-and-work/001.gif",
+      "bytes": 480049,
+      "sha256": "73baf1862cc861c750120e86191daf813de092365a8b989870ce1faf0a58ce15"
+    },
+    {
+      "path": "examples/pet-corgi/01-fun-and-work/002.gif",
+      "bytes": 442923,
+      "sha256": "927021ba7aae2b395e9395fa9a4e517fd3f2f86f924d4dbd901f771b80b97eda"
+    },
+    {
+      "path": "examples/pet-corgi/01-fun-and-work/003.gif",
+      "bytes": 492076,
+      "sha256": "7c561b4b51bd2d797a5712b64cbfe7b4e8d09385fe56e2f7792305305fdec8fa"
+    },
+    {
+      "path": "examples/pet-corgi/01-fun-and-work/004.gif",
+      "bytes": 458598,
+      "sha256": "8e92c7d7fe586a34767ed22e0c8ad87cefa8cf23aa98bec55261017020a0db61"
+    },
+    {
+      "path": "examples/pet-corgi/02-food-and-life/001.gif",
+      "bytes": 466750,
+      "sha256": "cca7244eeb87dcfa0cc926ecdde4266372560aaaa3a4a687c6cffa685920d371"
+    },
+    {
+      "path": "examples/pet-corgi/02-food-and-life/002.gif",
+      "bytes": 485550,
+      "sha256": "e882ba9333fd82000352b1e96192abb5cd5d3c9d8aed681f24bf421a75673346"
+    },
+    {
+      "path": "examples/pet-corgi/02-food-and-life/003.gif",
+      "bytes": 431490,
+      "sha256": "b394a5f4c555bc478897e822490a466b024e3b1a00529805ae33a5dcd528f248"
+    },
+    {
+      "path": "examples/pet-corgi/02-food-and-life/004.gif",
+      "bytes": 549912,
+      "sha256": "d38e16b5bee46e407ad30afa9658ccfe3908d28196a89f74f40bba1eee599dff"
+    },
+    {
+      "path": "examples/public-figures-hd/001.gif",
+      "bytes": 1323579,
+      "sha256": "8ae476b8dd9c3b36d414f931e7b121ad66ee919c4a00081117a434d48392dabd"
+    },
+    {
+      "path": "examples/public-figures-hd/002.gif",
+      "bytes": 1096465,
+      "sha256": "2b33d97404235fda3191e7358afefe7e147242afb584b591b475299353eb2558"
+    },
+    {
+      "path": "examples/public-figures-hd/003.gif",
+      "bytes": 1676314,
+      "sha256": "2541b23737823a5c40567b63550954ea75358b2de2e9c7abc0c33ed7cbc29cc5"
+    },
+    {
+      "path": "examples/public-figures-hd/004.gif",
+      "bytes": 1568451,
+      "sha256": "6e182038e714fbddfb970e23625627f5aee930dd613bb731a57bb4e854ccf178"
+    },
+    {
+      "path": "examples/public-figures-hd/clarity-comparison.png",
+      "bytes": 331738,
+      "sha256": "623837727987a6b367410008db9367e6625a51de7f14ff438bdd391632d42809"
+    },
+    {
+      "path": "examples/public-figures-hd/sources.json",
+      "bytes": 1288,
+      "sha256": "0956176920e48098d0b6020bcbf256f02731694cb3ec0fc0c7ff31f484efcf8d"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/001.gif",
+      "bytes": 468159,
+      "sha256": "fa156bb79924ac0addb08585f716da3100d12095152c5eb8d52a310cdc966658"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/002.gif",
+      "bytes": 448907,
+      "sha256": "bf48487a61b8e02f53ee34b2f6018a361fbd69ea0797ebd6a3ae5a59ba2f4943"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/003.gif",
+      "bytes": 512167,
+      "sha256": "81e4fa4de26ed3701a46fb831668dc47409a22b6e690117e660ae29f4e36ada9"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/004.gif",
+      "bytes": 428716,
+      "sha256": "a9ef678a181843fb52a73c58e73ed62535edefa5bea6a0b95b180400ab6d20dd"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/005.gif",
+      "bytes": 467444,
+      "sha256": "5e000f846bef8a274a8cb6029eaa81888fa093ce5daed97ae6bc78055b2ade8f"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/006.gif",
+      "bytes": 460375,
+      "sha256": "20229980931b52cc41f7cd15f0dcf2d4db5146ce870bdded684fbbe328ce2e04"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/007.gif",
+      "bytes": 456183,
+      "sha256": "acf0920d85f562593afa23172c2f3cd21e7433dd46d83bf7bb9cdaa3621f290c"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/008.gif",
+      "bytes": 458722,
+      "sha256": "2529a49f20ec1a10b7abd51b75221932f320e69922799d6117494dc392c59379"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/009.gif",
+      "bytes": 466191,
+      "sha256": "1ab323a1023853cbb41acfb764b36c4cdbf5167d0a6dff1dae872c26b638bda2"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/010.gif",
+      "bytes": 412743,
+      "sha256": "7a6d1987879b7dadfc3149ca089770f54f64132e16799c7ad2988ac2229483b9"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/011.gif",
+      "bytes": 444909,
+      "sha256": "f427019696c49584c58e9eab78e1af912eee456a9c484533f490f65d8336440b"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/012.gif",
+      "bytes": 454198,
+      "sha256": "68dd0b1622c90df318d1e4deb9f8812b61d85e3f683d4f2694efba5b9d0f953e"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/013.gif",
+      "bytes": 457647,
+      "sha256": "069fa116c98835935961b6e36c909cc19e73107c24881fb6416af5ff3c37f56c"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/014.gif",
+      "bytes": 431571,
+      "sha256": "193fe2a8a693d0a01adaa40ab5fbcdbca182f64239887cacb7b51242c5f2d360"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/015.gif",
+      "bytes": 364340,
+      "sha256": "94e2e2335b9e73655da451c2c211bb5268d7aeb9ff4cba7732c388cf4f4d2ef7"
+    },
+    {
+      "path": "examples/whale-maid/01-greetings/016.gif",
+      "bytes": 450503,
+      "sha256": "d44e436d7a8202da501d388e06d49e89984f060c90d4b03e0f32e0ddef16a056"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/017.gif",
+      "bytes": 456570,
+      "sha256": "ea99277b9b9be3b0cb167591b61ff8334f0575c508876b2f7ff35a991f027db1"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/018.gif",
+      "bytes": 439131,
+      "sha256": "128d74b7e2a4bf131e6962f5e68b34cdedf5e571a62ad2355308a4b5717d3f0d"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/019.gif",
+      "bytes": 437713,
+      "sha256": "2a02f26c312a24f4085028289f2e110136d99f4a74a1b0b3dc1ab753ddea83b6"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/020.gif",
+      "bytes": 450585,
+      "sha256": "3f605d75cfd13be72985e9aaeaf62b05497b61e545584c45c0ac7fe3307cec27"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/021.gif",
+      "bytes": 455985,
+      "sha256": "19566a37b2a0c63600c3583e644107bb3c37b25518beaae246826415befecefd"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/022.gif",
+      "bytes": 453120,
+      "sha256": "c0d6192529f18e123d7e6bc5615957402f5ef0c568586b6f9a0444cb1fb313c9"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/023.gif",
+      "bytes": 446388,
+      "sha256": "b5b80e65140126388f7bdf73d996cee095a47489e563e631bf5c5992571d6ebc"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/024.gif",
+      "bytes": 475148,
+      "sha256": "e1998f3d3c89c050b06a0fbb6be77b3f0cf6de2d608ab0ef75a005a5a2a568f2"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/025.gif",
+      "bytes": 442318,
+      "sha256": "f2cc184df3253eed19676c48ffcf39bbf697b3e4b147990a60dfda4f24d29209"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/026.gif",
+      "bytes": 474484,
+      "sha256": "25c933c668945dfa749a16bc94ca57dd877685b1bee2c1b9dd6bd175aac430af"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/027.gif",
+      "bytes": 477704,
+      "sha256": "bb3f87b52bb0fd9b8c6f2573fe51267d654fa4dfa3a8201a5cf21de9f2dbc9c0"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/028.gif",
+      "bytes": 459318,
+      "sha256": "fc2a30583adb4150f2a803540ef8927d91631a2111c5ced3c6497ca6c7ba641b"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/029.gif",
+      "bytes": 468729,
+      "sha256": "1c9472a578eeb1fc0043ad38c8694500870a3e133f1ce2209dce6c0714d149f7"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/030.gif",
+      "bytes": 465038,
+      "sha256": "b314afb9324a638aaad53bd650a0849ba55e0c4313e9577ef1994e7db6428dd5"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/031.gif",
+      "bytes": 457965,
+      "sha256": "5d3d77a1890be03cd0f8664b0fb6a1582006b0c917fc879ea9dbc81294dd4fd2"
+    },
+    {
+      "path": "examples/whale-maid/02-joy-and-affection/032.gif",
+      "bytes": 479546,
+      "sha256": "37de968827bc157669b45831deee91d03a0c07199948b0e5e485b605873873ad"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/033.gif",
+      "bytes": 494097,
+      "sha256": "fe28a170026f7b8af1849be18401b229239857c3bc004df185c26a8e4faf3cc5"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/034.gif",
+      "bytes": 467162,
+      "sha256": "a2643a6b3254d96530bd9114d0b2b9ae89633f3d77beb6bc687c679755ca9c42"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/035.gif",
+      "bytes": 439595,
+      "sha256": "a65370d54633a48e7fce2ccb87e3c98bd441690a463cdf6a524d6b18a2b10c06"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/036.gif",
+      "bytes": 428697,
+      "sha256": "c3436daa52f41b5f91b02f36af7dd2306e8b14435d183c0fdbf052fc13029634"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/037.gif",
+      "bytes": 442558,
+      "sha256": "51d4b31dbc9f52420ba4ec08891dead82077203c54553f81263d66cd894f46cb"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/038.gif",
+      "bytes": 497606,
+      "sha256": "584e9897ba223d43a18331555375a160990003cf917577e49b90e3d6fb1cbab2"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/039.gif",
+      "bytes": 461246,
+      "sha256": "69454a42e76f8e55d8fcc0a4f836fcb484d1c57545d4a0fdd250179ef39a9149"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/040.gif",
+      "bytes": 474023,
+      "sha256": "669ea3469191c4f915db30620ef4c02fae992a029167faf14e598affab62eb91"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/041.gif",
+      "bytes": 475031,
+      "sha256": "f09ec87aa1819c5c0fbe06bc341ffca814a9fbe19ba743001641de55109776dd"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/042.gif",
+      "bytes": 462878,
+      "sha256": "7e339ed3f10ff52b855edf768314399661c20699fbdd67362b279e355bd1008e"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/043.gif",
+      "bytes": 410365,
+      "sha256": "1ec1aa15e20821037d35ef13b332da2454ffcc1f1787b62eced44d4513b79c03"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/044.gif",
+      "bytes": 494816,
+      "sha256": "a333b5c0d3d97b4ad1585578ebf26db72d1599fa55877faa5b59beb1563ee0c5"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/045.gif",
+      "bytes": 456202,
+      "sha256": "62374bcc4171b1579718a8aa220f90ba82c957e74ce31af46aaf473ac7d6bdea"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/046.gif",
+      "bytes": 380527,
+      "sha256": "48f05ff3ae3c09822095fa8e06ec21746350fea3f0c15bae68b5ca994371904c"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/047.gif",
+      "bytes": 481476,
+      "sha256": "068b9ec554c9f62efe56e3a4a541d79973e2830c6df5e9aea8347374ae8e4204"
+    },
+    {
+      "path": "examples/whale-maid/03-emotions/048.gif",
+      "bytes": 464436,
+      "sha256": "3c2577fe0e7af00aac4deda989d7b115e57b08f6219311cc5693c7c6c6053f04"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/049.gif",
+      "bytes": 461419,
+      "sha256": "9b262df8b5bb0ff3d4cda07b414bfb919b6ba52fc1aa06275e04b3256eb5b715"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/050.gif",
+      "bytes": 486190,
+      "sha256": "4eb44b4a6bd6ed9bf64c25099577c5dd66e7885f83fdbb144d0a45906fbd6f15"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/051.gif",
+      "bytes": 350083,
+      "sha256": "6a9ec07f6bcac072b80d0119726f0741ca24ec080cf7a25a3d5ae047d955af2f"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/052.gif",
+      "bytes": 466094,
+      "sha256": "3d4e08e48f35df21fe634c233e42f856a9b95748b044e207b6858e1bdfa691bb"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/053.gif",
+      "bytes": 484366,
+      "sha256": "83cbacafa0c81d028b434b0616fbd065fc46441f5dd645a847d7959300aefcfd"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/054.gif",
+      "bytes": 412235,
+      "sha256": "ed0db044762a4d4d3cd2ef6df1e322319a22b13bba30ab50c57793cfb93b0edb"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/055.gif",
+      "bytes": 476360,
+      "sha256": "ec6fba943053bee6fab1bee27d6d54c8e10c3c1eac9c074b757232fe46df02fe"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/056.gif",
+      "bytes": 470872,
+      "sha256": "a18dabfe2d0bedba35cfd7e92d027d45214230a3f00bb38f90b56399a4b68b99"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/057.gif",
+      "bytes": 470625,
+      "sha256": "8c0d2e6d038794dbd912ad5130c58627c01fe13e86106e66e227454362c6e395"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/058.gif",
+      "bytes": 440596,
+      "sha256": "0fbd522b012f7db77998a193f1f086c6e7c235477ad573471589fb511fd13afc"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/059.gif",
+      "bytes": 481620,
+      "sha256": "439e657813560d31a763c09efea1753aa36e426fb9798fe73ec1fb81aa8e9876"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/060.gif",
+      "bytes": 495130,
+      "sha256": "2a499697b0f83ade8f8e638bdef60156ca1c1573171ac82d18706cb46ac16e59"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/061.gif",
+      "bytes": 414963,
+      "sha256": "9d3fb7d6431848a89d08b0809b24602eba851d85f1da2ba6a220c3f23b8390cc"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/062.gif",
+      "bytes": 448296,
+      "sha256": "e2818d83b3cafd6181b85bdcbe85a00e8801b6890b39f0df1d66775dcb3fa617"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/063.gif",
+      "bytes": 504639,
+      "sha256": "8c63268d490131fa0772feacf7ee5c2cc427f687d2ed045e1521847ed4b7295d"
+    },
+    {
+      "path": "examples/whale-maid/04-replies/064.gif",
+      "bytes": 454347,
+      "sha256": "c32a7ab56b362cb4e9e4916f8b7464cd2f09ca0628cfe223106a8c9de4c47847"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/065.gif",
+      "bytes": 456177,
+      "sha256": "37b9efed5706e60687f8ed04381a0b8a9064736788ceecad3ee19bdf6ddcf3bf"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/066.gif",
+      "bytes": 466209,
+      "sha256": "31a1ba2ef15d53cb857a22430d0b18b0ea6139d0f7ffcfc8c432343eee836f0f"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/067.gif",
+      "bytes": 584228,
+      "sha256": "1b8ccbe575df7647ecd4c167ef02367cf4a9bc0f44eccd6bb12228a12bc8449d"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/068.gif",
+      "bytes": 510589,
+      "sha256": "a7d91478ab38a987dba0712cedfe8738857cd856115e2bababf06f2e8a44b383"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/069.gif",
+      "bytes": 491114,
+      "sha256": "75c6fbf7375b448c05de5e5116f626f1930fd677a0383bac9678bfc19951742c"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/070.gif",
+      "bytes": 449378,
+      "sha256": "5e468cbe3a5ef09540ae4347bceecc4082250e945961480ce0231eed55f64bb9"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/071.gif",
+      "bytes": 458981,
+      "sha256": "87dbf85f727cfc9ed8821470556bfc198f4bd98051ce9a8c28bac05b8191957f"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/072.gif",
+      "bytes": 454045,
+      "sha256": "ddbea2f8c82b8c8cd087ccb3170087af49d5c2bc38ecbe6a939c22a45c091a53"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/073.gif",
+      "bytes": 522406,
+      "sha256": "6ae426dda3482c533aa857b0df1cece3257f78e119025e3c07df19a0eed786d9"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/074.gif",
+      "bytes": 455051,
+      "sha256": "05b6cd5d537412ddfaa5b1dee36910b00709480fadccfb012bcc419c098418e4"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/075.gif",
+      "bytes": 478269,
+      "sha256": "f5144395ca8430504ef63271bfb15cd7549930ea2cea7f696835a3b368dbe25b"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/076.gif",
+      "bytes": 440404,
+      "sha256": "9394e5b646b36239b18a8d4d9aecc4a671058864804a07dd9692d3202a07c9ec"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/077.gif",
+      "bytes": 516819,
+      "sha256": "c6e264e265ad0436ef0f4058ec9559027cb8befb6d518585f2c810a0ee6603d9"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/078.gif",
+      "bytes": 454346,
+      "sha256": "b508195949769048712d6d8ea8d89daa173c2a0c598449b6c44dcb6e68b9f20b"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/079.gif",
+      "bytes": 498500,
+      "sha256": "ad94733fa4fdac49a6a0fb0c5825e36c27bc35164e17aa79706cc4b25871e5ea"
+    },
+    {
+      "path": "examples/whale-maid/05-work-and-study/080.gif",
+      "bytes": 536384,
+      "sha256": "4a5b3f47301d3a86eefd1819c722baef39304989278afa35f7198c5273157d20"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/081.gif",
+      "bytes": 435083,
+      "sha256": "e70b5493489b6f9d390553e87ce648ece4e278709acfa4f0a15479e767c133bb"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/082.gif",
+      "bytes": 454190,
+      "sha256": "1bdedb4fe2e9e4391795da625884a496ccf0f4407226822d859cf5141c1aafac"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/083.gif",
+      "bytes": 463738,
+      "sha256": "91274f39c0a445de996ceacfd5c1cce71719ac9b7917f49351f3d2a03be3dfbf"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/084.gif",
+      "bytes": 456327,
+      "sha256": "89818d648e35f8ea2f03ad5385d605aa8ae8c43324fc8dff01cb8d0b2ba20a06"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/085.gif",
+      "bytes": 475254,
+      "sha256": "fbe85c43ce7814e54d79afbdcf698f4a2ffd1c436cfdc047e508ef80db9ccfff"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/086.gif",
+      "bytes": 561121,
+      "sha256": "dd85f46bd8a382bf6c9b362b3a007ea738c1b2fd9e93682ce5606ea82054ab43"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/087.gif",
+      "bytes": 501516,
+      "sha256": "d74a5ca67e733e250fa7c8deb0e6514aa239978804f03c85b983127e3131d58a"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/088.gif",
+      "bytes": 471304,
+      "sha256": "1a69c0821cd19736ab3364a4ea4ea3b8d6ae822f5d3f1a5b1e2dceb1dbcf0f06"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/089.gif",
+      "bytes": 503920,
+      "sha256": "0c14218f301da9e4ccea6d7ab4b665fe6c8e360169c498211ef50ebf838e9e29"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/090.gif",
+      "bytes": 478670,
+      "sha256": "38b3a20a78b7af2f5e582e498188eb8247dbd1cf2aeade0ab9abb1ba5cd2b22e"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/091.gif",
+      "bytes": 514543,
+      "sha256": "0f0b19b508f9406a685e04998132c6d039232c57f70c83ea953114b30c8edb6c"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/092.gif",
+      "bytes": 472247,
+      "sha256": "8747b70dd1deaf59b7e39ecea8ca6c94ea2b42df6d095d4c1fd63d262950f169"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/093.gif",
+      "bytes": 529210,
+      "sha256": "f3a0273efe8ca82cc5690f018ee899df51f204f32c5f67901e20e9c82b578b2d"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/094.gif",
+      "bytes": 513877,
+      "sha256": "5984482c173f6948ca321612fc6a78a9a41d4861131f02fb31c9e8c764744a2a"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/095.gif",
+      "bytes": 488968,
+      "sha256": "ea461d7ba4b440dea6ff2b76abfad165d4c79f3f1745aed66865698f1b23b88c"
+    },
+    {
+      "path": "examples/whale-maid/06-daily-life/096.gif",
+      "bytes": 546759,
+      "sha256": "2a73be6279e36cc9dc8dbb5ae8e85f2098296082730ac90193dad874d586bcb8"
+    },
+    {
+      "path": "examples/whale-maid/07-celebrations/097.gif",
+      "bytes": 429925,
+      "sha256": "8712710d78f4a27a8d8e07778f68262752fa137f6b43cafac5b154bcdb1ec18c"
+    },
+    {
+      "path": "examples/whale-maid/07-celebrations/098.gif",
+      "bytes": 420654,
+      "sha256": "5e52b7aeefc7b21de3e791ff870e360523ae915e6d02a65adb631776f31db547"
+    },
+    {
+      "path": "examples/whale-maid/07-celebrations/099.gif",
+      "bytes": 440123,
+      "sha256": "9416182d54e6c7f4360995c527cd5a209542678d03c65fd4917ab8f00b3de31d"
+    },
+    {
+      "path": "examples/whale-maid/07-celebrations/100.gif",
+      "bytes": 470762,
+      "sha256": "741e4f458a86087f06ea11b4eebb9066783164088d3e7c8d8f9be7cd2a117189"
+    },
+    {
+      "path": "examples/whale-maid/preview.gif",
+      "bytes": 3025745,
+      "sha256": "369e0506d6d4b7f9af69a6b999de22659e1076afdd278cad56703d26950c5b68"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1065,
+      "sha256": "7330cdef16d47a3a9d84e8b9689c5a1aec08720477dcd096d0921efacaffd332"
+    },
+    {
+      "path": "README.md",
+      "bytes": 48179,
+      "sha256": "d20577834f687023ab8cfc8848d81e49d26e5503cc8b0ce383d716b855726413"
+    },
+    {
+      "path": "references/clarity.md",
+      "bytes": 5302,
+      "sha256": "a2d118dab4b08c3ba60528d936651a443a22adb9bf6e92a3b5e0d9f688abf4be"
+    },
+    {
+      "path": "references/keyframes.md",
+      "bytes": 4696,
+      "sha256": "927eb093f17edad7d9310488a2c96fdf930bc2c7223f9fe8183fa2ba33a64c3d"
+    },
+    {
+      "path": "references/manifest.md",
+      "bytes": 2907,
+      "sha256": "6358391d592b5f510f44ec93ffcae480bf30c144ef3ee26f97fa74eb1af76417"
+    },
+    {
+      "path": "references/stability.md",
+      "bytes": 6650,
+      "sha256": "50ec30ae4c65609c023bb5925594b547d80cd1e6cecfc02dc300aef6d17a7767"
+    }
+  ]
+}

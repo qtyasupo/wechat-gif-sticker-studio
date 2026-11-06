@@ -1,24 +1,52 @@
 # 微信 GIF 表情包工作室
 
-给一个角色、一张参考图或一个成品文件夹，做出一套能聊天、能整理、能准备微信上架的表情包。
+给一张照片或一个角色，从实例库选风格，先确认静态造型，再由用户在网页端生成GIF，最后包装成微信表情专辑并跟进审核与上线状态。
 
-这个 Codex Skill 来自「小橘」和「青衫小剑客」的实际制作流程：先写统一角色的原生 GIF 提示词，用户去网页端生成；收回成品后，检查动画、制作专辑文案和五张配图，最后导出上传包并校验归档。
+![洛小咪系列横幅](examples/luoxiaomi2/assets/banner.png)
 
-![小橘系列横幅](examples/xiaoju/assets/banner.png)
+## 完整流程
 
-## 能做什么
+| 阶段 | 助手交付 | 完成条件 |
+| --- | --- | --- |
+| 实例选风格 | 查阅相关实例，给出少量清楚的样式选择 | 用户确定画风与拟人程度 |
+| 静态造型参考 | 单角色512×512 PNG及高清原稿 | 核对真实尺寸、身份与构图，用户认可 |
+| GIF提示词 | 每条独立完整，写清参考图用途、动作、台词和循环 | 用户可逐条复制 |
+| 用户网页生成 | 用户使用自己的网页入口逐张生成 | 收到实际GIF文件 |
+| 成品检查 | 格式、尺寸、循环、时长、帧数、重复、透明与画面检查 | 问题处理或明确列出 |
+| 微信包装 | 名称、介绍、版权、赞赏语、五张配图 | 核对实际尺寸、文字和透明度 |
+| 打包与提交 | GIF上传副本、缩略图、清单、填写信息、检查报告、ZIP | 用户上传，记录待审核 |
+| 审核与上线 | 按反馈定点修订、保留版本和回执 | 确认上线后记录日期与链接 |
 
-| 你手里有什么 | Skill交付什么 |
-| --- | --- |
-| 一个角色主题 | 统一角色设定、表情用途与逐条完整GIF提示词 |
-| 准备用网页端Image生成 | 可单独复制的提示词，不擅自代为生图 |
-| 已生成的一套GIF | 真实帧数、循环、时长、重复与尺寸检查 |
-| 准备微信上架 | 名称、介绍、版权署名、赞赏语和五张配图 |
-| 零散素材和解压副本 | 上传ZIP、填写说明、SHA256校验与归档计划 |
+默认分工是**助手设计和写提示词，用户在网页端生成GIF**。用户说“做GIF”时，沿用这一分工，交付逐条提示词；只有明确要求助手代为生成动图，才另行选择实际可用的入口。
 
-只要提示词就只写提示词；需要实际动图时，按所选入口的真实能力执行。当前工具不能输出GIF，不代表整个模型不支持GIF。静态图集、改扩展名和整图摇摆不能冒充所需肢体动画。
+## 实例库与尺寸参考
+
+- [风格选择索引](references/style-library.md)：照片质感宠物拟人、高清插画改编、像素等方向。
+- [本地实例展厅](references/style-library/README.md)：来自pixel-gif-sticker-pack固定版本的示例与参考，含223个GIF文件（含预览与候选），附来源和许可。
+- [尺寸参考表](references/sizes.md)：静态参考、创作GIF、上传主图、缩略图和五张配图的用途与规格。
+- [发布状态说明](references/publication.md)：材料就绪、待审核、需修改、通过、上线。
+
+## 洛小咪完整案例
+
+**2026-11-06：用户已上传微信，待审核。**当前不表示审核通过或已上线。
+
+- [从选风格到提交的完整案例](examples/luoxiaomi2/README.md)
+- [512×512单角色静态参考](examples/luoxiaomi2/reference.png)
+- [八条完整GIF提示词](examples/luoxiaomi2/prompts.md)
+- [8张GIF与五张配图清单](examples/luoxiaomi2/album.json)
+- [五张配图预览](examples/luoxiaomi2/assets-preview.jpg)、[填写信息](examples/luoxiaomi2/publishing.md)
+
+| 嗨起来 | 收到 | 抱抱 | 晚安 |
+| --- | --- | --- | --- |
+| ![嗨起来](examples/luoxiaomi2/stickers/01_嗨起来.gif) | ![收到](examples/luoxiaomi2/stickers/02_收到.gif) | ![抱抱](examples/luoxiaomi2/stickers/06_抱抱.gif) | ![晚安](examples/luoxiaomi2/stickers/08_晚安.gif) |
 
 ## 安装与调用
+
+```text
+使用 $wechat-gif-sticker-studio，根据我提供的猫咪照片，先从实例库给我几个风格选项。
+我选定后生成一张合格尺寸的静态参考图；认可造型后再给8条完整GIF提示词。
+GIF由我在网页端生成，做好后交给你检查和制作微信上架材料。
+```
 
 把本仓库链接发给Codex：
 
@@ -44,7 +72,7 @@
 先核对重名文件，完全相同的合并，逐文件校验后再移动源副本。
 ```
 
-## 示例
+## 其他示例
 
 | 收到 | 好耶 | 抱抱 | 摸鱼中 |
 | --- | --- | --- | --- |
@@ -59,7 +87,7 @@
 
 ## 可复用脚本
 
-只写提示词无需安装依赖。媒体检查、导出与打包使用Python 3.11+、Pillow；尺寸适配另需FFmpeg。Windows归档脚本使用PowerShell 7。
+实例选风格、写提示词无需安装媒体依赖。媒体检查、导出与打包使用Python 3.11+、Pillow；尺寸适配另需FFmpeg。Windows归档脚本使用PowerShell 7。
 
 ```bash
 python -m pip install -r requirements.txt
@@ -90,4 +118,4 @@ python scripts/sticker_pack.py resize-asset --input generated-cover.png --output
 python -m unittest discover -s tests -v
 ```
 
-代码与文档采用[MIT许可](LICENSE)。示例为本工作流的AI辅助作品，署名AIYasupo。工作流参考了[pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack)的角色一致性和交付检查思路；本仓库的脚本独立实现，支持用户自行在网页端生成GIF的路径。
+代码与文档采用[MIT许可](LICENSE)。小橘和洛小咪示例为本工作流的AI辅助作品，署名AIYasupo。第三方实例库保留其独立许可与具体素材来源，见references/style-library/LICENSE与SOURCE.json。工作流参考了[pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack)的角色一致性和交付检查思路；本仓库的脚本独立实现，支持用户自行在网页端生成GIF的路径。
